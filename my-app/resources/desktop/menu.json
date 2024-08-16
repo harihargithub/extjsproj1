@@ -1,0 +1,23 @@
+{
+  "leaf": false,
+  "children": [
+    {
+      "text": "Home DB",
+      "iconCls": "x-fa fa-home",
+      "xtype": "homeview",
+      "leaf": true
+    },
+    {
+      "text": "Personnel",
+      "iconCls": "x-fa fa-table",
+      "xtype": "personnelview",
+      "leaf": true
+    },
+    {
+      "text": "Employee",
+      "iconCls": "x-fa fa-user",
+      "xtype": "employeeview",
+      "leaf": true
+    }
+  ]
+}
